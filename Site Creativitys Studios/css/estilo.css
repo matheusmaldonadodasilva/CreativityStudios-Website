@@ -1,5 +1,5 @@
 * {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 500;
     font-size: 15px;
     
@@ -64,10 +64,19 @@ footer {
    
 }
 
-
-
-.div_colorida {
+.carousel slide {
     background: url(../imgs/bgslider.png);
+}
+
+.divslider2 {
+    /* padding-top: 5px;
+    /* padding-bottom: 5px; */
+    background: url(../imgs/bgslider.png);
+    
+ }
+
+ .carousel slide2 {
+    background-color: #fff;
 }
 
 .servicos_item * {
@@ -185,7 +194,7 @@ footer {
 }
 
 .divslider{
-    margin-top:-22px;
+    margin-top:-2%;
 }
 
 #button-addon2{
@@ -292,4 +301,10 @@ transform: scale(1.2);
 
 #media{
     margin: 10px;
+}
+
+.left carousel-control{
+    color: #fff;
+    background: #fff;
+    background-color: #fff;
 }
