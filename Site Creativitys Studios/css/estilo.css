@@ -74,6 +74,12 @@ footer {
     background: url(../imgs/bgslider.png);
 }
 
+#nossos-servicos{
+    margin-top: 0.8%;
+}
+
+
+
 .divslider2 {
     /* padding-top: 5px;
     /* padding-bottom: 5px; */
@@ -194,10 +200,11 @@ footer {
 }
 
 #button-dropdown2{
-    margin-top: -10.7%;
+    margin-top: -11%;
     margin-left: 83%;
     height: 40px;
     width: 60px;
+    color: #fff;
 }
 
 #search-navbar{
