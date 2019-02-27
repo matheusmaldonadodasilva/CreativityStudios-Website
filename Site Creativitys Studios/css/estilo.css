@@ -28,6 +28,12 @@ body {
 
 
 
+.slides-home{
+    margin-top: 2%;
+}
+
+
+
 section#contato {
     min-height: 80vh;   
 }
@@ -187,6 +193,13 @@ footer {
     
 }
 
+#button-dropdown2{
+    margin-top: -10.7%;
+    margin-left: 83%;
+    height: 40px;
+    width: 60px;
+}
+
 #search-navbar{
     width: 600px;
     height: 40px;
@@ -209,6 +222,9 @@ footer {
     margin-left: 10px;
     color: #000;
 }
+
+
+
 #a-nav-topics-two{
     margin-top: -30px;
     margin-right: 850px;
@@ -217,10 +233,10 @@ footer {
 margin-left: 10px;
 }
 #nav-two{
-    margin-top: -27px;
-height: 30px;   
-background-color: #6f25a7;
-    border-color: #6f25a7;
+    margin-top: 0%;
+height: 40px;   
+background-color: #ff6100;
+    border-color: #ff6100;
 }
 
 
@@ -282,7 +298,10 @@ transform: scale(1.2);
 
 .title-service{
     text-align: center;
+    
 }
+
+
 
 .image-store{
     height: 30px;
@@ -294,6 +313,12 @@ transform: scale(1.2);
     width: 130px;
 }
 
+.logo-footer-creativitysstudios{
+    height: 50px;
+    width: 160px;
+    margin-left: 2.5%;
+}
+
 .button-email-send{
     background-color: #ff6100;
 }
@@ -301,7 +326,7 @@ transform: scale(1.2);
 #input-email-send{
     width: 600px;
     height: 40px;
-    margin-left: 23%;
+    margin-left: 24%;
 }
 
 .group-email-send{
