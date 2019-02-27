@@ -308,15 +308,28 @@ transform: scale(1.2);
     width: 70px;
 }
 
+#card-deseja{
+    background-color: #ff6100;
+    color: #fff;
+    width: 84%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#card-group-deseja{
+    margin-left: -1.4%;
+}
+
 .logo-footer{
     height: 30px;
     width: 130px;
 }
 
 .logo-footer-creativitysstudios{
-    height: 50px;
+    height: 30px;
     width: 160px;
     margin-left: 2.5%;
+    margin-top: -1%;
 }
 
 .button-email-send{
