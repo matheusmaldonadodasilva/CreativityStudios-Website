@@ -159,8 +159,8 @@ footer {
 }
 
 .logo{
-    margin-left: 10px;
-    height: 31px;
+    margin-top: 3%;
+    height: 30px;
     width: 130px;
 }
 
@@ -188,9 +188,10 @@ footer {
 }
 
 #search-navbar{
-    width: 800px;
-    height: 47px;
-    margin-left:40px;
+    width: 600px;
+    height: 40px;
+    margin-left: -15%;
+    margin-top: 2%;
 }
 
 .divslider{
@@ -289,9 +290,23 @@ transform: scale(1.2);
 }
 
 .logo-footer{
-    margin-left: 10px;
-    height: 40px;
+    height: 30px;
     width: 130px;
+}
+
+.button-email-send{
+    background-color: #ff6100;
+}
+
+#input-email-send{
+    width: 600px;
+    height: 40px;
+    margin-left: 23%;
+}
+
+.group-email-send{
+    text-align: center;
+    margin-bottom: 5%;
 }
 
 #social-media{
