@@ -5,8 +5,18 @@
     
 }
 
+.information-footer{
+    margin-left: 72.2%; 
+    margin-top: -5%;
+}
  
+.ul-information-footer{
+    margin-left: -7%;
+}
 
+.section-footer-information{
+    margin-bottom: 5%;
+}
 
 body {
     background: url(../imgs/bgadm.png);   
@@ -36,6 +46,17 @@ body {
 
 section#contato {
     min-height: 80vh;   
+}
+
+.section-see-plus{
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    color: #000;
+}
+
+.a-see-plus{
+    color: #000;
 }
 
 footer {
